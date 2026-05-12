@@ -1,6 +1,6 @@
 ## Hi there 👋
 I’m currently learning TCL, static timing analysis, Synopsys design constraints, and Vim.
-<img src="61+cY0NMq0L._AC_UF894,1000_QL80_.jpg (894×457)" alt="" width="500">
+![Project Screenshot]([assets/dashboard-view.png](https://m.media-amazon.com/images/I/61+cY0NMq0L._AC_UF894,1000_QL80_.jpg))
 <!--
 **shovan-saha-primesiliconbd/shovan-saha-primesiliconbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
