@@ -1,7 +1,9 @@
 ## Hi there 👋
 I’m currently learning TCL, static timing analysis, Synopsys Design Constraints, and Vim (a highly configurable text editor).
 
-
+<p align="center">
+  <img src="142-1421515_delorean-png-transparent-png.png" width="50%">
+</p>
 
 <!--
 **shovan-saha-primesiliconbd/shovan-saha-primesiliconbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
