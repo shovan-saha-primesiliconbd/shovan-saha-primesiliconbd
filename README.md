@@ -1,9 +1,26 @@
 ## Hi there 👋
-I’m currently learning TCL, static timing analysis, Synopsys Design Constraints, and Vim (a highly configurable text editor).
+I’m currently learning Cadence Innovus, Git, GNU/Linux, TCL, static timing analysis, Synopsys Design Constraints, and Vim.
 
-<p align="center">
-  <img src="142-1421515_delorean-png-transparent-png.png" width="50%">
-</p>
+<table border="0">
+  <tr>
+    <td align="center" width="200">
+      <img src="git.png" alt="Git" width="150"/><br />
+      <b>Git</b>
+    </td>
+    <td align="center" width="200">
+      <img src="cadence.png" alt="Cadence" width="150"/><br />
+      <b>Cadence</b>
+    </td>
+    <td align="center" width="200">
+      <img src="tcl9.png" alt="Tcl" width="150"/><br />
+      <b>Tcl 9</b>
+    </td>
+    <td align="center" width="200">
+      <img src="vim.png" alt="Vim" width="100"/><br />
+      <b>Vim</b>
+    </td>
+  </tr>
+</table>
 
 <!--
 **shovan-saha-primesiliconbd/shovan-saha-primesiliconbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
