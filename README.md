@@ -1,5 +1,5 @@
 ## Hi there 👋
-I’m currently learning TCL, static timing analysis, Synopsys design constraints, and Vim.
+I’m currently learning TCL, static timing analysis, Synopsys Design Constraints, and Vim (a highly configurable text editor).
 ![Project Screenshot]([assets/dashboard-view.png](https://m.media-amazon.com/images/I/61+cY0NMq0L._AC_UF894,1000_QL80_.jpg))
 <!--
 **shovan-saha-primesiliconbd/shovan-saha-primesiliconbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
