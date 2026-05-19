@@ -1,5 +1,5 @@
 ## Hi there 👋
-I’m currently learning Cadence Innovus, Git, GNU/Linux, TCL, static timing analysis, Synopsys Design Constraints, and Vim.
+I’m currently learning Cadence Innovus, Git, GNU/Linux, TCL, static timing analysis, Synopsys design constraints,Bash and Vim.
 
 
 <!--
